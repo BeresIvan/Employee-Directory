@@ -32,5 +32,30 @@ The user should be able to:
 
 * The package.json file was modified to enable the deployment of gitHub pages https://github.com/BeresIvan/Employee-Directory/blob/main/package.json
 
+## Current Status 
 
+* The app was tested localy react is very useful at ponting at errors and problems in the code.
+* The app is deployed on gitHUB pages 
+
+
+
+## Installation  
+- Go to the app by following the link:  to use the app.  https://beresivan.github.io/Employee-Directory/
+- to further develope go to the github repository: https://github.com/BeresIvan/Employee-Directory
+- Clone the repository using the "git clone" command in the command line.
+- Open the files in visual studio code using the ". code" command in the command line.
+- Install the modules and dependencies using the npm install command.
+- Start the app by using the npm start command
+ 
+ 
+## Acknowledgment 
+The project was created by using:
+* [Visual Studio Code](https://code.visualstudio.com/)
+* [Git Bash](https://gitforwindows.org/index.html)
+* [GitHub](https://github.com/join)
+* [Bootstrap](https://getbootstrap.com/)
+* [Google Fonts](https://fonts.google.com/)
+* [Moment.js](https://momentjs.com)
+* [NPM](https://www.npmjs.com/)
+* [React](https://reactjs.org/)
 
