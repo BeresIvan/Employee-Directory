@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import SearchName from "./SearchName.js";
 import SearchDOB from "./SearchDOB.js";
